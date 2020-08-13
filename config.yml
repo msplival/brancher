@@ -1,11 +1,7 @@
 Version: 1
 Description: Test document
-ObsoleteOptions:
-    - option1
-    - option2
 NotObsoleteOptions:
     - option1
     - option2
 SomeOption:
-    - obsoleteoption1
     - retainedoption1
