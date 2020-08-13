@@ -3,5 +3,8 @@ Description: Test document
 NotObsoleteOptions:
     - option1
     - option2
+    - addedoption1
 SomeOption:
     - retainedoption1
+    - addedoption1
+    - addedoption2
