@@ -11,6 +11,5 @@ SomeOption:
 NewerOptions:
     - newoption1
     - newoption2
-    - newobsoleteoption1
     - newoption3
 
