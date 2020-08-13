@@ -9,7 +9,7 @@ SomeOption:
     - addedoption1
     - addedoption2
 NewerOptions:
-    - newoption1
     - newoption2
     - newoption3
+    - newoption4
 
